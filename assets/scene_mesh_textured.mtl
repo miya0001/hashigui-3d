@@ -1,0 +1,57 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 5
+
+newmtl material_00.001
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scene_mesh_textured_material_00_map_Kd.jpg
+
+newmtl material_01.001
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scene_mesh_textured_material_01_map_Kd.jpg
+
+newmtl material_02.001
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scene_mesh_textured_material_02_map_Kd.jpg
+
+newmtl material_03.001
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scene_mesh_textured_material_03_map_Kd.jpg
+
+newmtl material_04.001
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scene_mesh_textured_material_04_map_Kd.jpg
